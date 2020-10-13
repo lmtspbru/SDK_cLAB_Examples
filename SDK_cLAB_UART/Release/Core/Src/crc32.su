@@ -1,0 +1,2 @@
+crc32.c:69:15:crc32stream	0	static
+crc32.c:76:15:crc32	16	static
