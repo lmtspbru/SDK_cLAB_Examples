@@ -1,2 +1,3 @@
-# SDK_cLAB_Examples
-Примеры проектов для SDK-1.1M для ITMO.cLAB
+# Примеры проектов для ITMO.cLAB
+## Репозиторий с шаблоном проекта
+- [SDK_cLAB](https://github.com/lmtspbru/SDK_cLAB)
